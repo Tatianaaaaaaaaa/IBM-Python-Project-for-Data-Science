@@ -4,4 +4,4 @@
 ## Final Project: Analyzing Stock Performance and Building a Dashboard 
 - Extracking Stock Data Using a Python Library
 - Extracking Stock Data Using Web Scraping
-- Hands-on Lab: Analyzing Historical Stock/Revenue Data and Building a Dashboard 
+- Final Assignment: Analyzing Historical Stock/Revenue Data and Building a Dashboard 
